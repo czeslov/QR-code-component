@@ -48,13 +48,13 @@ main{
     background-size: cover;
 }
 
-h4, p{
+h1, p{
     text-align: center;
     font-family: 'Outfit', sans-serif;
     font-weight: 400;
 }
 
-h4{
+h1{
     font-size: 20px;
     padding: 0 20px;    
     margin: 15px 0;
@@ -82,7 +82,7 @@ p{
     p{
         font-size: 20px;
     }
-    h4{
+    h1{
         font-size: 28px
     }
 }
