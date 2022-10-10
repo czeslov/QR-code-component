@@ -18,7 +18,7 @@ body{
     height: 100vh;
 }
 
-.container{
+main{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -68,7 +68,7 @@ p{
 }
 
 @media screen and (min-width: 375px) and (max-width: 1440px){
-    .container{
+    main{
         height: 100vh;
     }
     .card{
